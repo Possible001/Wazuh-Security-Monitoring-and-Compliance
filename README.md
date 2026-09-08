@@ -1,4 +1,4 @@
-# Wazuh Security Monitoring and Compliance Assessment
+# Wazuh Security Monitoring and Compliance 
 
 ## Executive Summary
 
